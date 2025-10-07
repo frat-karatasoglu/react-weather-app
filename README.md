@@ -81,7 +81,8 @@ weather-app/
 
 ## 🖼️ Preview
 
-<img width="1893" height="893" alt="image" src="https://github.com/user-attachments/assets/c0dd3661-e06c-4905-bdcf-7d3282349b9c" />
+<img width="1886" height="894" alt="image" src="https://github.com/user-attachments/assets/1d6066c8-9f75-4295-a96c-248e718f016a" />
+
 
 ---
 
